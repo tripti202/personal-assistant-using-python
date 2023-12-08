@@ -282,9 +282,7 @@ if __name__ == "__main__":
                             pyautogui.press("enter")
                             pyautogui.press("enter")
                             
-        
-        
-        #HOPE YOU LIKED IT 
+    
         elif "focus mode" in query:
                             a = int(input("Are you sure that you want to enter focus mode :- [1 for YES / 2 for NO "))
                             if (a==1):
